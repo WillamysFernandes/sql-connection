@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\HappyBirthDay\\HappyBirthDay.csproj",
-      "projectName": "HappyBirthDay",
-      "projectPath": "C:\\DEV\\HappyBirthDay\\HappyBirthDay.csproj",
+      "projectUniqueName": "C:\\DEV\\sqlConnection\\sqlConnection.csproj",
+      "projectName": "sqlConnection",
+      "projectPath": "C:\\DEV\\sqlConnection\\sqlConnection.csproj",
       "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\HappyBirthDay\\obj\\",
+      "outputPath": "C:\\DEV\\sqlConnection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config"

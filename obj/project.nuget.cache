@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gXfkgCSwd89ZKOaIaL8p/BRO4avSf6MtJKeKE30TYqXNuEl+zDdCV9C0GGB2PuAtC6BaF12A/TrmDPeW6MAKrQ==",
+  "dgSpecHash": "dC+oGISTOJ7pAyaxin2rnaEjFaF7cjNtxTRvMKezlEgN7BFaMZtdS17JF7rmVDl6BqFJCcYni90PpBSS63BAtw==",
   "success": true,
-  "projectFilePath": "C:\\DEV\\HappyBirthDay\\HappyBirthDay.csproj",
+  "projectFilePath": "C:\\DEV\\sqlConnection\\sqlConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Usuário\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
